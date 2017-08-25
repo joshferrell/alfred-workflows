@@ -48,3 +48,19 @@ Search MDN through alfred with quick links<br />
 ## Spotifious
 Control spotify through aflred<br />
 [Download](https://github.com/citelao/Spotify-for-Alfred)
+
+## NPMS
+Search NPM packages
+[Download](https://github.com/sindresorhus/alfred-npms#readme)
+
+## Bug Me Not
+Use existing logins for sites like washington post that require logins to read content
+[Download](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot)
+
+## Encode / Decode
+Encode text into HTML encoding (given `'` recieve `&#039;`)
+[Download](https://github.com/willfarrell/alfred-encode-decode-workflow)
+
+## New Item
+Create a new template for a file (like .gitignores or .eslintrc files)
+[Download](https://github.com/danielbayley/alfred-finder-new-item)
